@@ -6,7 +6,7 @@
 console.log(x);
 var x = 3;
 
-function letHoisting() {
+function letHoisting() { 
     let l = 'I am declared before log() called';
     console.log(l);
     // let l = 'I am declared after log() called';
